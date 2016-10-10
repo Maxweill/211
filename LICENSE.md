@@ -1,0 +1,31 @@
+
+Copyright (c) [2016] [Maxwell Ethan Mucha]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+You may not recreate or otherwise plagarise this code for higher education assignments.
+
+This code is solely available for educational purposes, it is not to be used as a means
+for a student to cheat on their assignments.
+
+Professors and TA's MAY use this code repository as an example of what to/not to
+do, or for any other situation that may arise in a clasroom setting.
+
+This code may not be sold, except without the explicit written/typed consent
+of myself. If you wish to gain permsission, please email maxwell.mucha@gmail.com.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
