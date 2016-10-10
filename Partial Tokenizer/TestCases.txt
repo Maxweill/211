@@ -1,0 +1,70 @@
+TEST CASES:
+
+0
+[Decimal 0]
+
+1
+[Decimal 1]
+
+123
+[Decimal 123]
+
+%123
+[MAL 0x25][Decimal 123]
+
+123%123
+[Decimal 123][MAL 0x25][Decimal 123]
+
+07
+[Octal 07]
+
+079
+[MAL 079]
+
+07%07
+[Octal 07][MAL 0x25][Octal 07]
+
+079%07
+[MAL 079][MAL 0x25][Octal 07]
+
+0.1
+[Float 0.1]
+
+0.1e
+[MAL 0.2e]
+
+0.1e2
+[Float 0.1e2]
+
+0.e
+[MAL 0.e]
+
+0.1e+2
+[Float 0.1e+2]
+
+0..1
+[MAL 0..1]
+
+0x
+[MAL 0x]
+
+0x0
+[Hexadecimal 0x0]
+
+0x1
+[Hexadecimal 0x1]
+
+0xa
+[Hexadecimal 0xa]
+
+0xf
+[Hexadecimal 0xf]
+
+0xg    ///Special Case
+[MAL 0x][MAL 0x67]
+
+0x0x
+[Mal 0x0x]
+
+0x6%0x7
+[Hexadecimal 0x6][MAL 0x25][Hexadecimal 0x7]
